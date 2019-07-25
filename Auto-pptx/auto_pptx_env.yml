@@ -1,0 +1,64 @@
+name: auto_pptx
+channels:
+  - conda-forge
+  - anaconda
+  - defaults
+dependencies:
+  - blas=1.0=mkl
+  - ca-certificates=2019.1.23=0
+  - certifi=2019.3.9=py37_0
+  - cloudpickle=0.8.0=py37_0
+  - cycler=0.10.0=py37_0
+  - cytoolz=0.9.0.1=py37hfa6e2cd_1
+  - dask-core=1.1.4=py37_1
+  - decorator=4.4.0=py37_1
+  - freetype=2.10.0=h5db478b_0
+  - icc_rt=2019.0.0=h0cc432a_1
+  - icu=58.2=ha66f8fd_1
+  - imageio=2.5.0=py37_0
+  - intel-openmp=2019.3=203
+  - jpeg=9c=hfa6e2cd_1001
+  - kiwisolver=1.0.1=py37h6538335_0
+  - libiconv=1.15=hfa6e2cd_1005
+  - libpng=1.6.36=h7602738_1000
+  - libtiff=4.0.10=h36446d0_1001
+  - libxml2=2.9.8=h9ce36c8_1005
+  - libxslt=1.1.32=heafd4d3_1002
+  - lxml=4.3.3=py37heafd4d3_0
+  - matplotlib=3.0.3=py37hc8f65d3_0
+  - mkl=2019.3=203
+  - mkl_fft=1.0.10=py37h14836fe_0
+  - mkl_random=1.0.2=py37h343c172_0
+  - networkx=2.2=py37_1
+  - numpy=1.16.2=py37h19fb1c0_0
+  - numpy-base=1.16.2=py37hc3f5095_0
+  - olefile=0.46=py_0
+  - openssl=1.1.1=he774522_0
+  - pandas=0.24.2=py37ha925a31_0
+  - pillow=6.0.0=py37h9a613e6_0
+  - pip=19.0.3=py37_0
+  - pyparsing=2.3.1=py37_0
+  - pyqt=5.9.2=py37ha878b3d_0
+  - python=3.7.3=hb12ca83_0
+  - python-dateutil=2.8.0=py37_0
+  - python-pptx=0.6.17=py_0
+  - pytz=2018.9=py37_0
+  - pywavelets=1.0.2=py37h8c2d366_0
+  - qt=5.9.7=vc14h73c81de_0
+  - scikit-image=0.14.2=py37ha925a31_0
+  - scipy=1.2.1=py37h29ff71c_0
+  - setuptools=40.8.0=py37_0
+  - sip=4.19.13=py37ha925a31_0
+  - six=1.12.0=py37_0
+  - sqlite=3.26.0=hfa6e2cd_1001
+  - tk=8.6.9=hfa6e2cd_1001
+  - toolz=0.9.0=py37_0
+  - tornado=6.0.2=py37he774522_0
+  - vc=14.1=h21ff451_3
+  - vs2015_runtime=15.5.2=3
+  - wheel=0.33.1=py37_0
+  - wincertstore=0.2=py37_1002
+  - xlsxwriter=1.1.5=py_0
+  - zlib=1.2.11=h2fa13f4_1004
+prefix: C:\Users\ZEISS\Miniconda3\envs\auto_pptx
+
