@@ -112,3 +112,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Pycharm
+.idea/
+.xml
+
+# Files
+ColourIndexing/Indexed/
+ColourIndexing/RGBStack/
+ColourIndexing/h5LSU/
+auto_pptx/Template/
+auto_pptx/Images/
+auto_pptx/Run/
