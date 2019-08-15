@@ -1,9 +1,9 @@
 import os
 import zipfile
 
-dir = r'D:\PennState-Treadgold'
-folder_list = [d for d in os.listdir(dir) if os.path.isdir(os.path.join(dir, d))]
-print(folder_list)
+# dir = r'D:\Houston'
+# folder_list = [d for d in os.listdir(dir) if os.path.isdir(os.path.join(dir, d))]
+# print(folder_list)
 # Declare the function to return all file paths of the particular directory
 def retrieve_file_paths(dirName):
 
@@ -24,9 +24,9 @@ def retrieve_file_paths(dirName):
 # Declare the main function
 def main():
 # Assign the name of the directory to zip
-  dir_name = r'D:\PennState-Treadgold\Test'
+  dir_name = r'D:\Houston'
   folder_list = [os.path.join(dir_name, d) for d in os.listdir(dir_name) if os.path.isdir(os.path.join(dir_name, d))]
-
+  print(folder_list)
 
   for folder in folder_list:
       # Call the function to retrieve all files and folders of the assigned directory
